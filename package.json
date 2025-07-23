@@ -1,7 +1,11 @@
 {
 	"name": "client-template",
+	"description": "a template for WedStation client api applications",
 	"private": true,
-	"version": "0.0.0",
+	"version": "1.0.0",
+	"author": {
+		"name": "tom pacheco"
+	},
 	"type": "module",
 	"scripts": {
 		"dev": "vite",
