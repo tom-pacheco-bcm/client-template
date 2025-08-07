@@ -1,11 +1,10 @@
 # Client API + Svelte + TS + Vite
 
-A template for building WedStation client API applications using Svelte, TypeScript, and Vite. 
+A template for building WebStation client API applications using Svelte, TypeScript, and Vite. 
 
 Intended to be installed on a Schneider Electric [EcoStruxure Building Operation](https://www.se.com/us/en/product-range/62111-ecostruxure-building-operation-software/#overview) and is accessed with [WebStation](https://ecostruxure-building-help.se.com/bms/topics/show.castle?id=8792&productversion=7.0&locale=en-US)
 
 This project comes with built-in support for TailwindCSS, ESLint, and Prettier configuration.
-
 
 ## Features
 
@@ -15,6 +14,7 @@ This project comes with built-in support for TailwindCSS, ESLint, and Prettier c
 - 📦 Single-file build option
 - ✨ ESLint + Prettier for code quality
 - 🔍 TypeScript strict mode enabled
+- Mock Client API for offline development
 
 ## Prerequisites
 
